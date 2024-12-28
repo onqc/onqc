@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+@mz" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9long beautiful and short life" alt="Typing SVG">
   </a>
 </div>
 
-<img align="center" alt="" height="190px" src="https://cdn.discordapp.com/emojis/1175614754295914587.webp?size=96&animated=true">
+<img align="center" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1257699823084372040/1322437740821872701/94825ad80fff30c13cccfaf3d2ce4ea8.gif?ex=6770df9f&is=676f8e1f&hm=c3499e1d02b89e8523471d09b379720dd048c8c5cb489daa8ae0a3b3040ab416&">
 
 #
 
@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1257699823084372040/1322436408488493106/a_3e77909ac96953acb45f4ca85b4b1116.gif?ex=6770de61&is=676f8ce1&hm=824f9cfdd9b77e232695c1af25a5e35b4fd1eb0a7f38dde9935a062597af6a06&">
+<img align="right" alt="" height="190px" src="https://avatars.githubusercontent.com/u/110150777?v=4">
 
 <h3 align="left">Connect with me!</h3>
 
